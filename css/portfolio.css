@@ -2,14 +2,39 @@
 This website is built with all the love in the World by @MarcoMorawec
 **/
 
+body {
+	background-image: url('./img/background/test.jpg');
+
+}
+
 
 .header {
 	
 	
 }
 
-.blue-sidebar {
-  background-color: blue;	
 
-	
+
+.sidebar-line {
+	float: left;
+	width: 100px;
+	height: 800px;
+ 	background-color: #3BA2CF;	
 }
+
+.sidebar-plus {
+	text-decoration: none;
+}
+
+.clear-box {
+	background-color: rgba(36, 32, 33, 0.5);
+    box-shadow: 2px -2px 2px 2px rgba(36, 32, 33, 0.5);
+    padding: 1%;
+}
+
+
+
+.mmfooter (
+	clear:both;
+	//fix to the bottom of the page
+)

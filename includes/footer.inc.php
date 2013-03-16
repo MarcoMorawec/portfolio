@@ -1,9 +1,9 @@
-<footer class="footer">
+<footer class="footer mmfooter">
 
 	<div class="container">
 	
 	
-		<div class="span5">
+		<div class="span5 pull-right">
 			<p>2013 Marco Morawec</p>
 		</div>
 	</div>
