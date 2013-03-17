@@ -1,6 +1,6 @@
 <!--Sidebar Content -->
 <div id="modal" style="display:none">
-	<h2>Modal</h2>
+	<h2>Find your way around</h2>
 		
 <?php include('./includes/sidebarmenu.inc.php') ?>
 

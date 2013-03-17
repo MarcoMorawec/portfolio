@@ -17,8 +17,8 @@
 
 
 		<div class="span6 offset1">
-			<div class="clear-box">
-				<h3>Web Designer by Night and Product Manager during the day</h3>
+			<div class="clear-box h1-custom">
+				<h1>Web Designer by Night and Product Manager during the day</h1>
 			</div>
 		</div>
 
