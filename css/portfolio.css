@@ -1,10 +1,12 @@
 /**
 This website is built with all the love in the World by @MarcoMorawec
 **/
-
 body {
-	background-image: url('./img/background/test.jpg');
-
+  background: url(../img/background/cbckg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 
@@ -22,9 +24,11 @@ body {
  	background-color: #3BA2CF;	
 }
 
-.sidebar-plus {
-	text-decoration: none;
+.sidebar-plus{
 	text-align: center;
+}
+.sidebar-plus .icon-plus-sign {
+	text-decoration: none;
 }
 
 .clear-box {
@@ -33,18 +37,13 @@ body {
     padding: 1%;
 }
 
-**FONTS**
+/*FONTS*/
 
-.h1-custom {
-	font-size: 66px;
+.custom-h1 {
+	font-size: 46px;
     font-weight: 700;
     letter-spacing: -0.04em;
     line-height: 73px;
+    color: white;
 }
 
-
-
-.mmfooter (
-	clear:both;
-	//fix to the bottom of the page
-)

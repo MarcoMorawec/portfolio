@@ -16,9 +16,9 @@
 		<?php include('./includes/top-header.inc.php') ?>
 
 
-		<div class="span6 offset1">
-			<div class="clear-box h1-custom">
-				<h1>Web Designer by Night and Product Manager during the day</h1>
+		<div class="span7 offset1">
+			<div class="clear-box">
+				<h1 class="custom-h1">"A life worth living is spent outside ones comfort zone!"</h1>
 			</div>
 		</div>
 

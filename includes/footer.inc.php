@@ -1,4 +1,4 @@
-<footer class="footer mmfooter">
+<footer class="footer navbar-fixed-bottom">
 
 	
 	
