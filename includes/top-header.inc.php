@@ -1,8 +1,8 @@
-		<div class="span8">
-			<div class="header">
+				
+	<div class="header">
 
-				<div class="span2 pull-right">
-					<p>M&M</p>
-				</div>
-			</div>
+		<div class="span3 pull-right">
+			<h3 class="custom-h3 no-decoration"><a href="./index.php">M&M</a></h3>
 		</div>
+	</div>
+

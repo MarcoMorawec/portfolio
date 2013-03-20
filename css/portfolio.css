@@ -11,10 +11,14 @@ body {
 
 
 .header {
-	margin-bottom: 10%;
 	
 }
 
+ /*.navbar-inner1 {
+ 	box-shadow: none;
+ 	border: 0;
+ 	background-color: rgba(255,255,255,.4);
+ }*/
 
 
 .sidebar-line {
@@ -35,9 +39,16 @@ body {
 	background-color: rgba(36, 32, 33, 0.5);
     box-shadow: 2px -2px 2px 2px rgba(36, 32, 33, 0.5);
     padding: 1%;
+    margin-top: 80px;
+}
+.clear-box-intro {
+	background-color: rgba(36, 32, 33, 0.8);
+    box-shadow: 2px -2px 2px 2px rgba(36, 32, 33, 0.5);
+    padding: 1%;
+    margin-top: 30px;
 }
 
-/*FONTS*/
+/*FONTS and TEXT Styling*/
 
 .custom-h1 {
 	font-size: 46px;
@@ -45,5 +56,23 @@ body {
     letter-spacing: -0.04em;
     line-height: 73px;
     color: white;
+}
+
+.custom-h3 {
+	font-size: 18px;
+	letter-spacing: 3.8px;
+	color: black;
+	font-family: Oxygen;
+}
+
+.custom-intro {
+	font-size: 18px;
+	font-weight: 200;
+	letter-spacing: 1.0px;
+	color: white;
+}
+
+.no-decoration a:hover {
+	text-decoration: none;
 }
 
