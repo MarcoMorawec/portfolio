@@ -48,6 +48,10 @@ body {
     margin-top: 30px;
 }
 
+.sidebarmenu a {
+	color: white;
+}
+
 /*FONTS and TEXT Styling*/
 
 .custom-h1 {

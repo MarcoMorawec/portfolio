@@ -5,6 +5,6 @@
 <?php include('./includes/sidebarmenu.inc.php') ?>
 
 
-<a href="javascript:$.pageslide.close()">Close</a>
+<a href="javascript:$.pageslide.close()" class="pull-right no-decoration">Close</a>
 </div>
 <!--End Sidebar Content -->
