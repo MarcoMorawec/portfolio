@@ -3,7 +3,7 @@
 
 <body>
 
-
+<div class="stuff-doing-section">
 
 <?php include('./includes/sidebar-modal.inc.php') ?>
 
@@ -29,7 +29,7 @@
 
 
 </div>
-
+</div>
 
 
 </body>

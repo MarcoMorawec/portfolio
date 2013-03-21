@@ -2,13 +2,18 @@
 This website is built with all the love in the World by @MarcoMorawec
 **/
 body {
-  background: url(../img/background/cbckg.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   font-family: Helvetica Neue Light,Helvetica Neue,Helvetica,san-serif;
 
+}
+
+/*BACKGROUNDS*/
+
+.index-backgroun {
+	background: url(../img/background/cbckg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 
@@ -25,13 +30,14 @@ body {
 
 .sidebar-line {
 	float: left;
-	width: 100px;
-	height: 800px;
+	width: 72px;
+	height: 700px;
+	position: absolute;
  	background-color: #3BA2CF;	
 }
 
 .sidebar-plus{
-	text-align: center;
+	padding: 2px;
 }
 .sidebar-plus .icon-plus-sign {
 	text-decoration: none;
@@ -52,6 +58,13 @@ body {
 
 .sidebarmenu a {
 	color: white;
+}
+
+/*THUMBNAILS*/
+
+.thumbs {
+	margin-top: 60px;
+	margin-left: 120px;
 }
 
 /*FONTS and TEXT Styling*/

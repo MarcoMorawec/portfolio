@@ -15,7 +15,8 @@
     <link rel="stylesheet" href="./css/font-awesome.min.css">
 	<link href='http://fonts.googleapis.com/css?family=Exo:500,100,400' rel='stylesheet' type='text/css'> 
     <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'> 
-	<link rel="stylesheet" type="text/css" href="./css/jquery.pageslide.css">    
+	<link rel="stylesheet" type="text/css" href="./css/jquery.pageslide.css">
+    
 
 	
   </head>
