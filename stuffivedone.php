@@ -69,7 +69,7 @@
 						</div>
 					</li>
 					<li class="span4">
-						<div class="thumbnail clear-box-stuff">
+						<div class="thumbnail clear-box-stuff pull-up">
 							<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/KS_project.png">
 							<div class="caption">
 								<h3>Helping 4,000 Kids Learn</h3>
