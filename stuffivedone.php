@@ -20,7 +20,7 @@
 				<ul class="thumbnails">
 					<li class="span4">
 						<div class="thumbnail clear-box-stuff">
-							<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/surfscore.png">
+							<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/surfscore_angelhack2.png">
 							<div class="caption">
 								<h3>Winning AngelHack</h3>
 								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
