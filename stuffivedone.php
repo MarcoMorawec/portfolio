@@ -51,7 +51,7 @@
 			<div class="row">
 				<ul class="thumbnails">
 					<li class="span4">
-						<div class="thumbnail clear-box-stuff">
+						<div class="thumbnail clear-box-stuff push-down">
 							<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/PHP_percolate.png">
 							<div class="caption">
 								<h3>PHP Course Template</h3>
@@ -60,7 +60,7 @@
 						</div>
 					</li>
 					<li class="span4">
-						<div class="thumbnail clear-box-stuff">
+						<div class="thumbnail clear-box-stuff push-down">
 							<img alt="300x200" data-src="holder.js/300x200" style=";" src="./img/portfolio/surfscore.png">
 							<div class="caption">
 								<h3>Landing Page Design</h3>

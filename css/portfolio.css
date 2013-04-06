@@ -95,6 +95,11 @@ body {
 		margin-top: -35%;
 	}
 }
+@media only screen and (min-width : 1224px) {
+	.push-down {
+		margin-bottom: 35%;
+	}
+}
 
 /*FONTS and TEXT Styling*/
 
