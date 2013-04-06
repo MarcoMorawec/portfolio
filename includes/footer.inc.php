@@ -3,7 +3,7 @@
 	
 	
 		<div class="span2 offset pull-right">
-			<p>2013 Marco Morawec</p>
+			<p>&copy 20<?php echo date("y") ?> Marco Morawec</p>
 		</div>
 
 
