@@ -38,13 +38,9 @@
 				</div>
 			</div>
 
-			
-			<?php include('./includes/footer.inc.php') ?>
-
-
-	</div>
-</div>
-
+	</div>	
+		
+	<?php include('./includes/footer.inc.php') ?>
 
 
 </body>
