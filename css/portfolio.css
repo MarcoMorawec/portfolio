@@ -31,7 +31,7 @@ body {
 .sidebar-line {
 	float: left;
 	width: 72px;
-	height: 700px;
+	height: 100%;
 	position: absolute;
  	background-color: #3BA2CF;	
 }
@@ -42,6 +42,10 @@ body {
 .sidebar-plus .icon-plus-sign {
 	text-decoration: none;
 }
+
+/*.navbar .navbar-fixed-top .sidebar-plus .plus-sign {
+	to eventually fix the plus sign to the top
+}*/
 
 .clear-box {
 	background-color: rgba(36, 32, 33, 0.5);

@@ -18,7 +18,7 @@ $(".second").pageslide({ direction: "right", modal: true });
 <script type="text/javascript">
   $("<?php if ($currentPage == 'index.php') {echo 'body'; } ?>").backstretch("./img/background/cbckg.jpg");
   $("<?php if ($currentPage == 'stuffivedone.php') {echo '.stuff-done-section'; } ?>").backstretch("./img/background/test.jpg");
-  $("<?php if ($currentPage == 'stuffimdoing.php') {echo '.stuff-doing-section'; } ?>").backstretch("./img/background/test.jpg");
+  $("<?php if ($currentPage == 'stuffimdoing.php') {echo '.stuff-doing-section'; } ?>").backstretch("./img/background/cbckg2.jpg");
 
 
 
