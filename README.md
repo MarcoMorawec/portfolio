@@ -6,5 +6,5 @@ Nothing special, just my personal website where I blog and share some of the pro
 
 ![Screenshot 1](./img/portfolio/portfolio1.png)
 
-![Screenshot 2](https://raw.github.com/marcomorawec/portfolio/img/portfolio/portfolio2.png)
+![Screenshot 2](./img/portfolio/portfolio2.png)
 
