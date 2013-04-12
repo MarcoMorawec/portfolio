@@ -34,6 +34,8 @@
 						I won <a href="http://angelhack.com">the biggest hackathon in Boston</a>, <a href="https://www.google.com/search?q=shoestring+travel+expert&aq=f&oq=shoestring+tra&aqs=chrome.1.57j59.2887&sourceid=chrome&ie=UTF-8">
 						shoestring travelled</a> around the world on $25 a day for an entire year, inspire other travelers 
 						on my <a href="http://www.25dollartravel.com">travel blog</a> and surf waves on every continent.
+						</br></br>
+						You can fin 
 					</h4>
 				</div>
 			</div>

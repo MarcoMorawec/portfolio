@@ -52,7 +52,7 @@
 				<ul class="thumbnails">
 					<li class="span4">
 						<div class="thumbnail clear-box-stuff push-down">
-							<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/PHP_percolate.png">
+							<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/surf.jpg">
 							<div class="caption">
 								<h3>Surfing Ice-Cold Waves</h3>
 								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
