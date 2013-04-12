@@ -20,7 +20,9 @@
 				<ul class="thumbnails">
 					<li class="span4">
 						<div class="thumbnail clear-box-stuff">
-							<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/surfscore_angelhack2.png">
+							<a href="http://www.surfscore.me" target="_blank">
+								<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/surfscore.png">
+							</a>
 							<div class="caption">
 								<h3>Co-Founding Surfscore</h3>
 								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
@@ -55,24 +57,6 @@
 							<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/surf.jpg">
 							<div class="caption">
 								<h3>Surfing Ice-Cold Waves</h3>
-								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-							</div>
-						</div>
-					</li>
-					<li class="span4">
-						<div class="thumbnail clear-box-stuff push-down">
-							<img alt="300x200" data-src="holder.js/300x200" style=";" src="./img/portfolio/surfscore.png">
-							<div class="caption">
-								<h3>Landing Page Design</h3>
-								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-							</div>
-						</div>
-					</li>
-					<li class="span4">
-						<div class="thumbnail clear-box-stuff">
-							<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/KS_project.png">
-							<div class="caption">
-								<h3>Helping 4,000 Kids Learn</h3>
 								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
 							</div>
 						</div>
