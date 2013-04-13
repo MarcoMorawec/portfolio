@@ -20,7 +20,7 @@
 				<ul class="thumbnails">
 					<li class="span4">
 						<div class="thumbnail clear-box-stuff">
-							<a href="" target="_blank">
+							<a href="http://surfscore.me/ah/index.php" target="_blank">
 								<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/surfscore_angelhack2.png">
 							</a>
 							<div class="caption">
@@ -49,7 +49,7 @@
 							</a>
 							<div class="caption">
 								<h3>Wordpress Customization</h3>
-								<p>I created a simple custom wordpress theme for a project in India to highlight the daily struggles of people living in the streets.</p>
+								<p>I created a simple custom wordpress theme for a Street Stories Project in India to highlight the daily struggles of people making a living in the streets.</p>
 							</div>
 						</div>
 					</li>
@@ -65,7 +65,8 @@
 							</a>
 							<div class="caption">
 								<h3>PHP Course Template</h3>
-								<p>I taught myself PHP through a self-guided study group and used Twitter bootstrap to devlop a simple template for all other participants to show off their completed work.</p>
+								<p>I taught myself PHP through a self-guided study group and used Twitter bootstrap to devlop a simple template for all other participants so they can show off their work better.</p>
+								<p>This site uses many PHP Elements to make the website development faster</p>
 							</div>
 						</div>
 					</li>
@@ -74,7 +75,7 @@
 							<img alt="300x200" data-src="holder.js/300x200" style=";" src="./img/portfolio/GA.jpg">
 							<div class="caption">
 								<h3>Web Analytics Workshops</h3>
-								<p>I tought 50+ people in multiple sessions how to use available web analytics tools to optimize their website, improve their online marketing campaigns and design simple AB Tests.</p>
+								<p>I tought 50+ people in multiple sessions how to optimize their website, improve their online marketing campaigns and design simple AB Tests using available web analytics tools.</p>
 							</div>
 						</div>
 					</li>
