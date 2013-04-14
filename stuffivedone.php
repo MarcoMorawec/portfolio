@@ -75,7 +75,7 @@
 							<img alt="300x200" data-src="holder.js/300x200" style=";" src="./img/portfolio/GA.jpg">
 							<div class="caption">
 								<h3>Web Analytics Workshops</h3>
-								<p>I tought 50+ people in multiple sessions how to optimize their website, improve their online marketing campaigns and design simple AB Tests using available web analytics tools.</p>
+								<p>I taught 50+ people in multiple sessions how to optimize their website, improve their online marketing campaigns and design simple AB Tests using available web analytics tools.</p>
 							</div>
 						</div>
 					</li>

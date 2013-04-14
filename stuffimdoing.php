@@ -74,7 +74,7 @@
 							<div class="caption">
 								<h3>Creating Rails Apps</h3>
 								<p>"Doing more faster" was my motivation to learn Rails.</p>
-								<p>Check my latest version out on Heroku.</p>
+								<p>Check out my latest version on Heroku.</p>
 							</div>
 						</div>
 					</li>
