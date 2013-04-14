@@ -36,7 +36,7 @@
 							</a>
 							<div class="caption">
 								<h3>Optimizing the Web</h3>
-								<p>Seeing the need for data analytics and website optimization in Hawaii led me to start my own consulting business optimizing the web presence of non-profits and solving data analytics problems for small businesses.</p>
+								<p>Seeing the need for data analytics and website optimization in Hawaii led me to start my own consulting business, optimizing the web presence of non-profits and solving data analytics problems for small businesses.</p>
 							</div>
 						</div>
 					</li>
@@ -47,7 +47,7 @@
 							</a>
 							<div class="caption">
 								<h3>UX Product Management</h3>
-								<p>Rapid prototyping, usability testing, product-funnel experiments and improving the user experience of a Multi-Million transactional product keep me constantly on my toes.</p>
+								<p>Rapid prototyping, usability testing, product-funnel experiments and improving the user experience of a Multi-Million transactional product keep me on my toes.</p>
 							</div>
 						</div>
 					</li>
