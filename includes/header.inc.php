@@ -5,7 +5,7 @@
    / _ \/ _ \    _| |_    / _ \/ _ \
   / / \__/ \ \  |_   _|  / / \__/ \ \
  /_/        \_\   |_|   /_/        \_\
-     
+
 /**************************************
 *
 *   Why you come look here?
@@ -31,6 +31,6 @@
     <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'> 
 	<link rel="stylesheet" type="text/css" href="./css/jquery.pageslide.css">
     
-
+<?php include('./includes/googleanalytics.inc.php') ?> 
 	
   </head>
