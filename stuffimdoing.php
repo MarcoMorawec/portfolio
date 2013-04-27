@@ -68,7 +68,7 @@
 					</li>
 					<li class="span4">
 						<div class="thumbnail clear-box-stuff push-down">
-							<a href="http://www.salty-chamber-2613.herokuapps.com" target="_blank">
+							<a href="http://surfscore.herokuapp.com" target="_blank">
 								<img alt="300x200" data-src="holder.js/300x200" style="" src="./img/portfolio/rails.png">
 							</a>
 							<div class="caption">
