@@ -47,7 +47,7 @@
 							</a>
 							<div class="caption">
 								<h3>UX Product Management</h3>
-								<p>Rapid prototyping, usability testing, product-funnel experiments and improving the user experience of a Multi-Million transactional product keep me on my toes.</p>
+								<p>Rapid prototyping, usability testing, product-funnel experiments and improving the user experience of a Multi-Million transactional product keeps me on my toes.</p>
 							</div>
 						</div>
 					</li>
