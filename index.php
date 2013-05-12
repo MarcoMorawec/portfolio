@@ -27,7 +27,7 @@
 						I'm Marco. I co-founded <a href="http://www.surfscore.me" target="_blank">surfscore.me</a> to bring performance
 						tracking into action sports and run my own <a href="http://www.recanalytics.com" target="_blank">web optimization company</a> in Hawaii.
 						</br></br>
-						I'm also a front-end web designer, product manager for UX at one of the coolest startups in Boston,
+						I'm also a front-end web designer, product manager for UX at one of the coolest startup in Boston,
 						and consulted companies like P&G, AIG (Hawaii), the Centers for Disease Control (CDC) and over 30 non-profit
 						organizations in Hawaii.
 						</br></br>
