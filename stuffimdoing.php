@@ -26,7 +26,7 @@
 							<div class="caption">
 								<h3>Co-Founding Surfscore</h3>
 								<p>It's a start-up and we wear many fancy hats here. My favorite hat right now is product development and rapidly iterating on our hardware prototypes.</p>
-\							</div>
+							</div>
 						</div>
 					</li>
 					<li class="span4">
